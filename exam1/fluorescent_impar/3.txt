@@ -1,0 +1,2 @@
+SampleDepth	Sources	Station	Time	Latitude	Longitude	Xkm	Ykm	Month	Year	BottomDepth	Season	Discovery	RelativeDepth
+517	28.73	1	3	50.1508	-14.4792	-34.106	16.779	4	2001	3939	1	252	3422
